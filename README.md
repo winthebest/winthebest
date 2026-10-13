@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Steven 👋
 
-### Vietnam | AI Engineer | LLM & MLOps Enthusiast
+### Hanoi | AI Engineer | Ai Solution Architecturel
 
 > Building intelligent AI applications, scalable machine learning systems, and reliable LLM-powered solutions.
 
@@ -20,6 +20,4 @@
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME/)
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- [Email](mailto:YOUR_EMAIL@example.com)
+- [LinkedIn](https://www.linkedin.com/in/stevenphn2003/?)
