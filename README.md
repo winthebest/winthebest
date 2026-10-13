@@ -1,6 +1,6 @@
 # Hi, I'm Steven 👋
 
-### Hanoi | AI Engineer | Ai Solution Architecturel
+### Hanoi | AI Engineer | Ai Solution Architecture
 
 > Building intelligent AI applications, scalable machine learning systems, and reliable LLM-powered solutions.
 
